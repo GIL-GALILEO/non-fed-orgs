@@ -7,7 +7,6 @@ AMPALS Demonstration Site,ampals-dem5,https://www.galileo.usg.edu/wayfinder/ampa
 Emory University,ampals-emu1,https://www.galileo.usg.edu/wayfinder/ampals-emu1-emory-university
 Interdenominational Theological Center,ampals-int1,https://www.galileo.usg.edu/wayfinder/ampals-int1-interdenominational-theological-center
 Morehouse College,ampals-mor1,https://www.galileo.usg.edu/wayfinder/ampals-mor1-morehouse-college
-Oglethorpe University,ampals-ogl1,https://www.galileo.usg.edu/wayfinder/ampals-ogl1-oglethorpe-university
 Spelman College,ampals-spe1,https://www.galileo.usg.edu/wayfinder/ampals-spe1-spelman-college
 AMPALS Test Site,ampals-tamp,https://www.galileo.usg.edu/wayfinder/ampals-tamp-ampals-test-site
 Floyd County College and Career Academy,charter_k12-ecav:,https://www.galileo.usg.edu/wayfinder/charter_k12-ecav:floyd-county-college-and-career-academy
@@ -142,7 +141,6 @@ Life University,gpals-life,https://www.galileo.usg.edu/wayfinder/gpals-life-life
 Luther Rice College & Seminary,gpals-lrb1,https://www.galileo.usg.edu/wayfinder/gpals-lrb1-luther-rice-college-seminary
 New Orleans Baptist Theological Seminary (North Georgia Campus),gpals-nob1,https://www.galileo.usg.edu/wayfinder/gpals-nob1-new-orleans-baptist-theological-seminary-north-georgia-campus
 Paine College,gpals-pai1,https://www.galileo.usg.edu/wayfinder/gpals-pai1-paine-college
-Piedmont College,gpals-pie1,https://www.galileo.usg.edu/wayfinder/gpals-pie1-piedmont-college
 Richmont Graduate University,gpals-psin,https://www.galileo.usg.edu/wayfinder/gpals-psin-richmont-graduate-university
 Reinhardt University,gpals-rei1,https://www.galileo.usg.edu/wayfinder/gpals-rei1-reinhardt-university
 Shorter University,gpals-sho1,https://www.galileo.usg.edu/wayfinder/gpals-sho1-shorter-university
@@ -151,7 +149,7 @@ Toccoa Falls College,gpals-toc1,https://www.galileo.usg.edu/wayfinder/gpals-toc1
 Truett McConnell University,gpals-tru1,https://www.galileo.usg.edu/wayfinder/gpals-tru1-truett-mcconnell-university
 Wesleyan College,gpals-wes1,https://www.galileo.usg.edu/wayfinder/gpals-wes1-wesleyan-college
 Young Harris College,gpals-you1,https://www.galileo.usg.edu/wayfinder/gpals-you1-young-harris-college
-Atlanta-Fulton Public Library System,gpls_nonpines-afpl,https://www.galileo.usg.edu/wayfinder/gpls_nonpines-afpl-atlanta-fulton-public-library-system
+Fulton Public Library System,gpls_nonpines-afpl,https://www.galileo.usg.edu/wayfinder/gpls_nonpines-afpl-atlanta-fulton-public-library-system
 Adams Park Branch,gpls_nonpines-afpl:,https://www.galileo.usg.edu/wayfinder/gpls_nonpines-afpl:adams-park-branch
 Adamsville-Collier Heights Branch,gpls_nonpines-afpl:,https://www.galileo.usg.edu/wayfinder/gpls_nonpines-afpl:adamsville-collier-heights-branch
 Alpharetta Branch,gpls_nonpines-afpl:,https://www.galileo.usg.edu/wayfinder/gpls_nonpines-afpl:alpharetta-branch
@@ -3027,5 +3025,4 @@ Office of Planning and Budget,usg-opb1,https://www.galileo.usg.edu/wayfinder/usg
 General Assembly,usg-sen1,https://www.galileo.usg.edu/wayfinder/usg-sen1-general-assembly
 Southern Regional Education Board,usg-sre1,https://www.galileo.usg.edu/wayfinder/usg-sre1-southern-regional-education-board
 University of Georgia,usg-uga1,http://www.libs.uga.edu/galileologin.html
-University of Georgia School of Law,usg-uga1:,http://www.libs.uga.edu/galileologin.html
 University System - Test Site,usg-usys,https://www.galileo.usg.edu/wayfinder/usg-usys-university-system-test-site
